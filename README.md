@@ -11,6 +11,9 @@ Type `python sweets-bct.py` in your Command Line Interface.
 You will be prompted to type in the characters you wish to convert.
 Once satisfied, press `ENTER` to see the results.
 
+**Note:** This application will not differentiate spacing. For example, typing "Rock on" will
+also include the space between Rock and on. A more accurate conversion would be "Rockon".
+
 ### Contributions
 You're free to distribute and modify this code and any improvements or suggestions are welcomed.
 You can contact me at themattbook@gmail.com
