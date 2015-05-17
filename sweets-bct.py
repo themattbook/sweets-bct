@@ -1,6 +1,6 @@
 class pcolors:
-    HEADER = '\033[91m'
-    RETURN = '\033[0m'
+	HEADER = '\033[91m'
+	RETURN = '\033[0m'
 
 print pcolors.HEADER + "\nSweet's Binary Conversion Tool v1.0"
 print pcolors.RETURN + "Easily convert characters to Binary."
@@ -18,5 +18,6 @@ print pcolors.RETURN + "Enter characters to convert: ",
 data = raw_input()
 
 print "\nResults: ",
-print pcolors.HEADER + (' '.join(format(ord(x), 'b') for x in data))
-print pcolors.RETURN
+print pcolors.HEADER + (' '.join(format(ord(x), 'b') for x in data) + pcolors.RETURN)
+print
+quit()
