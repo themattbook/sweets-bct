@@ -4,7 +4,7 @@ Sweet's Binary Conversion Tool is a simple python application that converts char
 ### Purpose
 I created this for my own computer science endeavors. I understand there may be better ways of accomplishing
 the task at hand, but it worked for my needs at the time. I may add more features like hex conversion and the ability
-to manipulate the data through different mathematical results.
+to manipulate the data through different mathematical requests.
 
 ### Usage
 Type `python sweets-bct.py` in your Command Line Interface.
@@ -15,5 +15,5 @@ Once satisfied, press `ENTER` to see the results.
 also include the space between Rock and on. A more accurate conversion would be "Rockon".
 
 ### Contributions
-You're free to distribute and modify this code and any improvements or suggestions are welcomed.
+You're free to distribute and modify this code and any improvements or suggestions are welcome.
 You can contact me at themattbook@gmail.com
